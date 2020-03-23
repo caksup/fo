@@ -1,1 +1,1 @@
-
+document.write('<div style="position: fixed; top: 10px; left: 10px;width:100px;height:100px; z-index:9999"><img src="https://webcomicms.net/sites/default/files/clipart/144398/animated-soccer-ball-144398-3868928.gif" alt="cs-sx" height="100px" width="100px"></div>');
